@@ -41,6 +41,6 @@ Business Insight 360 (Power BI)
 
 🌐 Connect With Me
 
-LinkedIn: []
+LinkedIn: [https://www.linkedin.com/in/triveni-sharma-827b10383?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
 GitHub: Clinical2CodeTS
 -->
