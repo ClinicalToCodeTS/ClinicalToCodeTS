@@ -1,8 +1,7 @@
-##Hi, I’m Triveni Sharma 👋
-ClinicalToCode | Data Analytics Enthusiast
-<!--
-**ClinicalToCodeTS/ClinicalToCodeTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+##Hi, I’m Triveni Sharma 
 
+ClinicalToCode | Data Analytics Enthusiast
+ 
 Welcome to my GitHub profile!
 
 I’m a Pharmacist transitioning into Data Analytics, passionate about turning raw data into meaningful insights.
