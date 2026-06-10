@@ -35,11 +35,12 @@ Power BI | Excel | DAX | Power Query |
 
 📊 Featured Projects
 
-Sales Analytics Dashboard
-Supply Chain Analytics Dashboard
+Excel Sales Analytics Project
+Excel Finance Analytics Project
+Business Insight 360 (Power BI)
 
 🌐 Connect With Me
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: []
 GitHub: Clinical2CodeTS
 -->
